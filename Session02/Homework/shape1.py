@@ -2,6 +2,7 @@ from turtle import *
 shape('arrow')
 color('red')
 speed(-1)
+left(115)
 
 for i in range(4):
     for k in range(2):
