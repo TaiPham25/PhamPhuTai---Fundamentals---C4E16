@@ -1,6 +1,6 @@
 # #3a
-# from random import choice
-# from random import shuffle
+from random import choice
+from random import shuffle
 
 playing = True
 while playing:
